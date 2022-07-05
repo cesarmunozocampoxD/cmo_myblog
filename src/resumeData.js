@@ -15,15 +15,10 @@ let resumeData = {
           "name":"github",
           "url":"",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"Mexico",
+    "aboutme":"I am passionate about development in distributed systems, everything that has to do with blockchain and cryptocurrencies.",
+    "address":"(+52) 5549042696",
     "website":"cesar_MunozOcampo@hotmail.com",
     "education":[
       {
@@ -36,30 +31,37 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"BranchBit * Grupo Salinas",
+        "specialization":"Desarrollador Java - Microservicios SpringBoot",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2022",
+        "Achievements":"Actual Work"
       },
       {
-        "CompanyName":"Some Company",
+        "CompanyName":"DSV AIR & SEA S.A DE C.V.",
+        "specialization":"Desarrollador web fullstack",
+        "MonthOfLeaving":"Jan",
+        "YearOfLeaving":"2022",
+        "Achievements":""
+      },
+      {
+        "CompanyName":"Grupo metalmecánica Cruz S.A. De C.V.",
         "specialization":"Some specialization",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfLeaving":"2019",
+        "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Lenguges",
     "skills":[
       {
-        "skillname":"Java/SpringBoot"
+        "skillname":"Java"
       },
       {
-        "skillname":"JavaScript/Node"
+        "skillname":"JavaScript"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"C#"
       }
     ],
     "portfolio":[
@@ -72,16 +74,6 @@ let resumeData = {
         "name":"project2",
         "description":"mobileapp",
         "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
       }
     ],
     "testimonials":[
