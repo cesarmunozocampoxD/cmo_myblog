@@ -1,7 +1,7 @@
 let resumeData = {
   "imagebaseurl": "",
   "name": "Cesar Muñoz Ocampo",
-  "role": "BanckEnd Java Microservices",
+  "role": "Software engineer",
   "linkedinId": "Your LinkedIn Id",
   "skypeid": "",
   "roleDescription": "",
@@ -33,21 +33,21 @@ let resumeData = {
     {
       "CompanyName": "BranchBit * Grupo Salinas",
       "specialization": "Desarrollador Java - Microservicios SpringBoot",
-      "MonthOfLeaving": "Mayo",
+      "MonthOfLeaving": "May",
       "YearOfLeaving": "2022",
       "Achievements": "Actual Work"
     },
     {
       "CompanyName": "DSV AIR & SEA S.A DE C.V.",
       "specialization": "Desarrollador web fullstack",
-      "MonthOfLeaving": "Mayo",
+      "MonthOfLeaving": "May",
       "YearOfLeaving": "2022",
       "Achievements": ""
     },
     {
       "CompanyName": "Grupo metalmecánica Cruz S.A. De C.V.",
       "specialization": "Desarrollador Java",
-      "MonthOfLeaving": "Febrero",
+      "MonthOfLeaving": "Febrary",
       "YearOfLeaving": "2019",
       "Achievements": ""
     }
